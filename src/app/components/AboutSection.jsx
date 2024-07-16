@@ -74,7 +74,6 @@ const AboutSection = () => {
           </div>
         </div>
       </div>
-      <div className="bg-[radial-gradient(ellipse_at_center,_var(--tw-gradient-stops))] from-primary-900 to-transparent rounded-full h-40 w-40 z-0 blur-lg absolute -bottom-3/4 -right-14 transform -translate-x-1/2 -translate-1/2"></div>
     </section>
   );
 };
