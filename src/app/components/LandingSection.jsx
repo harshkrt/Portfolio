@@ -46,12 +46,10 @@ const LandingSection = () => {
             </Link>
             <a
               href="/"
-              // download="Resume.pdf"
+              download="Resume.pdf"
               className="px-1 inline-block py-1 w-full sm:w-fit rounded-full bg-gradient-to-br from-orange-400 via-red-400 to-blue-400 hover:bg-slate-800 text-white mt-3"
             >
-              <span onClick={() => {
-                alert("Resume will be uploaded soon...");
-              }} className="block bg-[#121212] hover:bg-slate-800 rounded-full px-5 py-2">
+              <span className="block bg-[#121212] hover:bg-slate-800 rounded-full px-5 py-2">
                 Download Resume
               </span>
             </a>
