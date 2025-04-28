@@ -65,7 +65,7 @@ const EmailSection = () => {
           I&apos;m ready to help and get the work done for you.
         </p>
         <div className="socials flex flex-row gap-2">
-          <Link href="https://github.com/harshk-codes">
+          <Link href="https://github.com/harshkrt">
             <Image src={GithubIcon} alt="Github Icon" />
           </Link>
           <Link href="https://linkedin.com/in/harshk48">

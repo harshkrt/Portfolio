@@ -11,7 +11,7 @@ const projectsData = [
     description: "This is the prtfolio website you're viewing now",
     image: "/images/projects/1.png",
     tag: ["All", "Web"],
-    gitUrl: "https://github.com/harshk-codes/Portfolio",
+    gitUrl: "https://github.com/harshkrt/Portfolio",
     previewUrl: "/",
   },
   {
@@ -20,7 +20,7 @@ const projectsData = [
     description: "Made in React(Vite) and Socket.io",
     image: "/images/projects/2.png",
     tag: ["All", "Web"],
-    gitUrl: "https://github.com/harshk-codes/Tic-Tac-Toe",
+    gitUrl: "https://github.com/harshkrt/Tic-Tac-Toe",
     previewUrl: "/",
   },
   {
@@ -29,7 +29,7 @@ const projectsData = [
     description: "Made using Pygame and concept of graph theory",
     image: "/images/projects/3.png",
     tag: ["All"],
-    gitUrl: "https://github.com/harshk-codes/Chain-Reaction",
+    gitUrl: "https://github.com/harshkrt/Chain-Reaction",
     previewUrl: "/",
   },
 ];
