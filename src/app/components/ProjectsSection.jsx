@@ -27,7 +27,7 @@ const projectsData = [
     id: 3,
     title: "TenHours",
     description: "e-commerce website for buying eco-friendly sanitary pads",
-    image: "/images/projects/4.png",
+    image: "/images/projects/3.png",
     tag: ["All", "Web"],
     gitUrl: "https://github.com/harshkrt/tenHours",
     previewUrl: "/",
