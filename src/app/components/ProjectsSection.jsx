@@ -30,7 +30,7 @@ const projectsData = [
     image: "/images/projects/3.png",
     tag: ["All", "Web"],
     gitUrl: "https://github.com/harshkrt/tenHours",
-    previewUrl: "/",
+    previewUrl: "https://tenhours.vercel.app",
   },
   {
     id: 4,
