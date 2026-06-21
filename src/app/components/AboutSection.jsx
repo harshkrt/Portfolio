@@ -14,7 +14,6 @@ const TAB_DATA = [
         <li>Express</li>
         <li>MongoDb</li>
         <li>JavaScript</li>
-        <li>Golang</li>
         <li>C++</li>
         <li>Python</li>
       </ul>

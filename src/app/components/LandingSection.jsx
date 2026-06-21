@@ -45,8 +45,8 @@ const LandingSection = () => {
               Hire Me
             </Link>
             <a
-              href="/"
-              download="Resume.pdf"
+              href="/Harsh_SDE.pdf"
+              download="Harsh_Resume.pdf"
               className="px-1 inline-block py-1 w-full sm:w-fit rounded-full bg-gradient-to-br from-orange-400 via-red-400 to-blue-400 hover:bg-slate-800 text-white mt-3"
             >
               <span className="block bg-[#121212] hover:bg-slate-800 rounded-full px-5 py-2">
